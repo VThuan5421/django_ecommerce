@@ -12,3 +12,6 @@ Examples
 
 Start project
 > python manage.py runserver
+
+
+![Screenshot](image.png)
